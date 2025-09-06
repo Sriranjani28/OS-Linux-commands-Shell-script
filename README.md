@@ -43,11 +43,11 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-file:///home/adminuser/Pictures/Screenshots/Screenshot%20from%202025-09-02%2016-45-48.png
+![WhatsApp Image 2025-09-06 at 03 29 07_cd0496d6](https://github.com/user-attachments/assets/e1474acd-45d5-4337-b3ab-82bf9a20d11c)
 
 cat < file2
 ## OUTPUT
-
+![WhatsApp Image 2025-09-06 at 03 29 09_4fd00777](https://github.com/user-attachments/assets/ba5eeda3-d0df-4ce6-920a-d22c220b6589)
 
 # Comparing Files
 cmp file1 file2
