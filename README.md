@@ -43,7 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-
+file:///home/adminuser/Pictures/Screenshots/Screenshot%20from%202025-09-02%2016-45-48.png
 
 cat < file2
 ## OUTPUT
